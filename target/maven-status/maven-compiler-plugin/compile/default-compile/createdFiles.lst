@@ -1,0 +1,4 @@
+com\yash\CoronavirusRecoverTrackerApplication.class
+com\yash\coronavirusrecovertracker\service\CoronavirusRecordsService.class
+com\yash\coronavirusrecovertracker\controller\CoronavirusRecoverRecordsController.class
+com\yash\coronavirusrecovertracker\model\CoronaVirusRecordsTableModel.class
